@@ -1,0 +1,68 @@
+{
+  "enableTls": true,
+  "avatar": "https://github.com/eliva1e.png",
+  "name": "Elivale",
+  "bio": "i am human",
+  "objects": [
+    {
+      "isLabel": true,
+      "name": "SOCIAL"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/eliva1e",
+      "symlink": "telegram",
+      "background": "#24A1DE",
+      "foreground": "#fff",
+      "icon": "telegram"
+    },
+    {
+      "name": "Bluesky",
+      "url": "https://elivale.bsky.social",
+      "symlink": "bsky",
+      "background": "#01AAFF",
+      "foreground": "#fff",
+      "icon": "bluesky"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/eliva1e",
+      "symlink": "github",
+      "background": "#2b3137",
+      "foreground": "#fff",
+      "icon": "github"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@realmisterkirill",
+      "symlink": "youtube",
+      "background": "#FF0033",
+      "foreground": "#fff",
+      "icon": "youtube"
+    },
+    {
+      "isLabel": true,
+      "name": "MUSIC"
+    },
+    {
+      "type": "button",
+      "name": "✨ RAINDROP ✨",
+      "url": "https://band.link/KSRaindrop",
+      "symlink": "raindrop",
+      "background": "#449be6",
+      "foreground": "#fff"
+    },
+    {
+      "isLabel": true,
+      "name": "PROJECTS"
+    },
+    {
+      "type": "button",
+      "name": "Clover ☘️",
+      "url": "https://github.com/eliva1e/clover",
+      "symlink": "clover",
+      "background": "#4a8b2d",
+      "foreground": "#fff"
+    }
+  ]
+}
