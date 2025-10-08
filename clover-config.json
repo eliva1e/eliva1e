@@ -1,14 +1,20 @@
 {
-  "enableTls": true,
+  "enableTls": false,
   "avatar": "https://github.com/eliva1e.png",
   "name": "Elivale",
   "bio": "i am human",
+  "background": "https://images.unsplash.com/photo-1562263588-35193ae8ecbb",
+  "meta": {
+    "title": "Elivale ✨",
+    "description": "oh hi there!"
+  },
   "objects": [
     {
-      "isLabel": true,
+      "type": "label",
       "name": "SOCIAL"
     },
     {
+      "type": "button",
       "name": "Telegram",
       "url": "https://t.me/eliva1e",
       "symlink": "telegram",
@@ -17,6 +23,7 @@
       "icon": "telegram"
     },
     {
+      "type": "button",
       "name": "Bluesky",
       "url": "https://elivale.bsky.social",
       "symlink": "bsky",
@@ -25,6 +32,7 @@
       "icon": "bluesky"
     },
     {
+      "type": "button",
       "name": "GitHub",
       "url": "https://github.com/eliva1e",
       "symlink": "github",
@@ -33,6 +41,7 @@
       "icon": "github"
     },
     {
+      "type": "button",
       "name": "YouTube",
       "url": "https://www.youtube.com/@realmisterkirill",
       "symlink": "youtube",
@@ -41,7 +50,7 @@
       "icon": "youtube"
     },
     {
-      "isLabel": true,
+      "type": "label",
       "name": "MUSIC"
     },
     {
@@ -53,7 +62,7 @@
       "foreground": "#fff"
     },
     {
-      "isLabel": true,
+      "type": "label",
       "name": "PROJECTS"
     },
     {
